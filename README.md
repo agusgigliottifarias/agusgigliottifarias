@@ -3,14 +3,13 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
 <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="150px" />
 
-Soy estudiante avanzado de **Analista en Informática**. Me especializo en el desarrollo de software seguro, automatización con Python y la exploración de entornos Linux. Actualmente enfocado en la ciberseguridad y el desarrollo de herramientas útiles para la comunidad.
+Soy estudiante avanzado de **Analista en Informática**. 
 
-- 🔭 **Actualmente trabajando en:** Mi repositorio centralizado de scripts de **Ciberseguridad** y bots de Telegram.
-- 🌱 **Aprendiendo:** Pentesting, seguridad ofensiva y profundizando en Álgebra y lógica avanzada.
-- 👯 **Busco colaborar en:** Proyectos de código abierto relacionados con seguridad informática o herramientas en Python.
-- 💬 **Pregúntame sobre:** Configuración de entornos Linux (Parrot OS), privacidad en Android (Hardening) y desarrollo en Godot.
-- 📫 **Cómo contactarme:** A través de mis repositorios o mi perfil de itch.io.
-- ⚡ **Dato curioso:** En mis ratos libres trato de conseguir el platino de *The Witcher 2* y experimento con mixología sin alcohol.
+
+
+
+
+
 
 ---
 
