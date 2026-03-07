@@ -1,22 +1,24 @@
 ![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="150px" />
 
-Soy estudiante avanzado de la carrera **Licenciatura en Informatica**.
+My name is **Guillermo**. I am a **Senior Student of Bachelor of Computer Science** (Licenciatura en Informática), currently focused on completing my degree and advancing my professional career in IT.
 
-- 🔭 **Actualmente aprendiendo:** **Docker** y **Github**
+I am an active member of **GDV**, a group dedicated to **Video Game Development**, where I apply my programming and logic skills to create interactive experiences. Additionally, I am expanding my technical profile in the field of **Cybersecurity**, developing secure scripts and exploring system hardening.
 
-
+- 🎓 **Academic Status:** Advanced Bachelor of Computer Science student.
+- 🕹️ **Game Development:** Proud member of the **GDV** development group.
+- 🛡️ **Cybersecurity:** Learning and building tools for secure environments and automation.
 
 ---
 
 ### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ### Other Tools and Technologies
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
