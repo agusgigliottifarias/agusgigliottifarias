@@ -1,10 +1,10 @@
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://papitasfritas11.itch.io/)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   </picture> <br> 
 
 <h1 align="center"> Hello There 👋 </h1>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   </picture> <br> 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="150px" />
@@ -13,11 +13,16 @@ My name is **Guillermo**. I am a **Senior Student of Bachelor of Computer Scienc
 
 I am an active member of **GDV**, a group dedicated to **Video Game Development**, where I apply my programming and logic skills to create interactive experiences. Additionally, I am expanding my technical profile in the field of **Cybersecurity**, developing secure scripts and exploring system hardening.
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   </picture> <br> 
+
+
+**About Me**
+
 - 🎓 **Academic Status:** Advanced Bachelor of Computer Science student.
 - 🕹️ **Game Development:** Proud member of the **GDV** development group.
 - 🛡️ **Cybersecurity:** Learning and building tools for secure environments and automation.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   </picture> <br> 
 
 ### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -33,7 +38,7 @@ I am an active member of **GDV**, a group dedicated to **Video Game Development*
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&logoColor=blue)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   </picture> <br> 
 
 
 ---
