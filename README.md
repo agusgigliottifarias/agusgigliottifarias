@@ -62,4 +62,3 @@ Para darle un toque dinámico y ver en qué lenguajes trabajo más:
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=agusgigliottifarias&theme=tokyonight&column=3&margin-w=15&no-bg=true" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
