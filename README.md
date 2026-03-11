@@ -1,42 +1,57 @@
-[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://papitasfritas11.itch.io/)
+<h1 align="center"> Hello There 👋 I'm Guillermo </h1>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   </picture> <br> 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="600">
+</p>
 
-<h1 align="center"> Hello There 👋 </h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   </picture> <br> 
+## 👨‍💻 Sobre Mí
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
-<img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="150px" />
+Soy **estudiante avanzado de la Licenciatura en Informática**. Mi enfoque actual se divide en dos grandes pasiones: la creación de experiencias interactivas y la seguridad de los sistemas.
 
-My name is **Guillermo**. I am a **Senior Student of Bachelor of Computer Science** (Licenciatura en Informática), currently focused on completing my degree and advancing my professional career in IT.
+- 🕹️ **Game Dev:** Miembro activo de **GDV**, donde desarrollo videojuegos principalmente con **Godot Engine**.
+- 🛡️ **Cybersecurity:** Entusiasta de la seguridad informática, enfocado en el desarrollo de scripts seguros, automatización y *system hardening* en entornos **Linux**.
+- 🐧 **Linux User:** Usuario de **Parrot OS** para flujos de trabajo de seguridad y desarrollo.
 
-I am an active member of **GDV**, a group dedicated to **Video Game Development**, where I apply my programming and logic skills to create interactive experiences. Additionally, I am expanding my technical profile in the field of **Cybersecurity**, developing secure scripts and exploring system hardening.
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   </picture> <br> 
+## 🛠️ Tecnologías y Herramientas
 
+### Lenguajes de Programación
+<p align="left">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/GDScript-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white" />
+</p>
 
-**About Me**
+### Bases de Datos y Herramientas
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&logoColor=blue" />
+</p>
 
-- 🎓 **Academic Status:** Advanced Bachelor of Computer Science student.
-- 🕹️ **Game Development:** Proud member of the **GDV** development group.
-- 🛡️ **Cybersecurity:** Learning and building tools for secure environments and automation.
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   </picture> <br> 
+## 🎮 Mis Proyectos en Itch.io
+Si querés ver mis juegos y prototipos desarrollados con el grupo GDV, podés visitar mi perfil:
 
-### Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
+<a href="https://papitasfritas11.itch.io/">
+  <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io Profile" />
+</a>
 
-### Other Tools and Technologies
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&logoColor=blue)
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   </picture> <br> 
+## 📊 GitHub Stats
+Para darle un toque dinámico y ver en qué lenguajes trabajo más:
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=agusgigliottifarias&show_icons=true&theme=tokyonight&count_private=true" alt="Guillermo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusgigliottifarias&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
