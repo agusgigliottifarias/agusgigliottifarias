@@ -12,7 +12,6 @@ Soy **estudiante avanzado de la Licenciatura en Informática**. Mi enfoque actua
 
 - 🕹️ **Game Dev:** Miembro activo de **GDV**, donde desarrollo videojuegos principalmente con **Godot Engine**.
 - 🛡️ **Cybersecurity:** Entusiasta de la seguridad informática, enfocado en el desarrollo de scripts seguros, automatización y *system hardening* en entornos **Linux**.
-- 🐧 **Linux User:** Usuario de **Parrot OS** para flujos de trabajo de seguridad y desarrollo.
 
 ---
 
