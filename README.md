@@ -54,6 +54,12 @@ Para darle un toque dinámico y ver en qué lenguajes trabajo más:
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusgigliottifarias&layout=compact&theme=tokyonight&hide=html,css" />
 </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agusgigliottifarias&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=agusgigliottifarias&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=agusgigliottifarias&theme=tokyonight" height="150" />
+</p>
+
 
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=agusgigliottifarias&theme=tokyonight" />
