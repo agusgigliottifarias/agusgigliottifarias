@@ -49,9 +49,17 @@ Si querés ver mis juegos y prototipos desarrollados con el grupo GDV, podés vi
 ## 📊 GitHub Stats
 Para darle un toque dinámico y ver en qué lenguajes trabajo más:
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agusgigliottifarias&show_icons=true&theme=tokyonight&count_private=true" alt="Guillermo's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusgigliottifarias&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agusgigliottifarias&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusgigliottifarias&layout=compact&theme=tokyonight&hide=html,css" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=agusgigliottifarias&theme=tokyonight" />
+  
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=agusgigliottifarias&theme=tokyonight&column=3&margin-w=15&no-bg=true" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
