@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Sobre Mí
 
-Soy **estudiante avanzado de la Licenciatura en Informática**. Mi enfoque actual se divide en dos grandes pasiones: la creación de experiencias interactivas y la seguridad de los sistemas.
+Soy **estudiante avanzado de la Licenciatura en Informática**. Mi enfoque actual se divide en dos grandes pasiones: la creación de video juegos  y la seguridad de los sistemas.
 
 - 🕹️ **Game Dev:** Miembro activo de **GDV**, donde desarrollo videojuegos principalmente con **Godot Engine**.
 - 🛡️ **Cybersecurity:** Entusiasta de la seguridad informática, enfocado en el desarrollo de scripts seguros, automatización y *system hardening* en entornos **Linux**.
